@@ -10,3 +10,4 @@ JInternetDownloadManager is a Download manger made with JavaSE.
      4: Wait for some moments while the file downloads.
 # NOTE : 
  You free to edit this programm if you want.
+ The programm is currently under devlopment so it may not work some sometime. Please comment for issues
