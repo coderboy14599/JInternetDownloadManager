@@ -1,5 +1,6 @@
 # JInternetDownloadManager
 JInternetDownloadManager is a Download manger made with JavaSE.
+It is portable, cross-platform,tiny download manager.
 # Author 
  M.Mirajus Salehin
 # How to use: 
