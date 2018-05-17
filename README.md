@@ -6,7 +6,7 @@ It is portable, cross-platform,tiny download manager.
 # How to use: 
      1: Open the JAR file.
      2: Open the file you want to download in browser.
-     3: Copy the file like and paste it to the programm.
+     3: Copy the file link and paste it to the programm.
      3: Click "Add Download
      4: Wait for some moments while the file downloads.
 # NOTE : 
