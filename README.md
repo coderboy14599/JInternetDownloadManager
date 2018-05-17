@@ -15,7 +15,7 @@ It is portable, cross-platform,tiny download manager.
  # CONFIGURATION
  Settings and controls are configured through JInternetDownloadManager/src. The settings file has ample comments to document configuration.
 # CONTRIBUTING :chart_with_upwards_trend: : 
-    1: Fork it [Click Here] (https://github.com/coderboy14599/JInternetDownloadManager/fork) :fork_and_knife: .
+    1: Fork it ( https://github.com/coderboy14599/JInternetDownloadManager/fork ) :fork_and_knife:  .
     2: Create your feature branch ( ``` git checkout -b my-new-feature ```  ) .
     3: Commit your changes ( ``` git commit -am 'Add some feature' ``` ) .
     4: Push to the branch (``` git push origin my-new-feature ```).
